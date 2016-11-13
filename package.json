@@ -1,0 +1,31 @@
+{
+    "name": "minimal-colors",
+    "displayName": "Minimal Colors",
+    "description": "A minimal syntax highlighting theme",
+    "version": "1.0.0",
+    "publisher": "andradei",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/andradei/minimal-colors/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andradei/minimal-colors"
+    },
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icons": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Minimal Colors",
+                "uiTheme": "vs-dark",
+                "path": "./themes/minimal-colors.tmTheme"
+            }
+        ]
+    }
+}
