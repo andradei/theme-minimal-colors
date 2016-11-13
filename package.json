@@ -6,11 +6,11 @@
     "publisher": "andradei",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/andradei/minimal-colors/issues"
+        "url": "https://github.com/andradei/theme-minimal-colors/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/andradei/minimal-colors"
+        "url": "https://github.com/andradei/theme-minimal-colors"
     },
     "engines": {
         "vscode": "^1.5.0"
